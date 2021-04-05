@@ -8,5 +8,10 @@
 # output
 ![agun2 1 (3)](https://user-images.githubusercontent.com/56526167/113578069-70dacb00-964c-11eb-92b5-94b7cfb669ed.png)
 # Menambahkan hyperlink
+![agun2 2 (4)](https://user-images.githubusercontent.com/56526167/113578907-bf3c9980-964d-11eb-8e7f-9dd767e80adc.png)
 # output
 ![agun2 5 (2)](https://user-images.githubusercontent.com/56526167/113578607-450c1500-964d-11eb-9be8-192d6be10ca9.png)
+# judul dan paragraf
+![jkl](https://user-images.githubusercontent.com/56526167/113579565-b0a2b200-964e-11eb-8a75-3f299941517a.png)
+# output
+![agun2 5 (3)](https://user-images.githubusercontent.com/56526167/113579784-f8c1d480-964e-11eb-9c07-edb3cdbc5447.png)
