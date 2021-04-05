@@ -19,3 +19,8 @@
 ![agun2 7 (2)](https://user-images.githubusercontent.com/56526167/113580211-93221800-964f-11eb-8975-296bdf9c544e.png)
 # output
 ![agun2 5 (4)](https://user-images.githubusercontent.com/56526167/113580432-ec8a4700-964f-11eb-8c66-29241bd75e9f.png)
+# Menambahkan warna pada background
+# input
+![g](https://user-images.githubusercontent.com/56526167/113581173-fd878800-9650-11eb-94c9-28a5ab538bfb.png)
+# output
+![agun2 5 (5)](https://user-images.githubusercontent.com/56526167/113581266-227bfb00-9651-11eb-9b1e-4b54ef090c2e.png)
