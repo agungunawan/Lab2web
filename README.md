@@ -28,4 +28,15 @@
 ![g3](https://user-images.githubusercontent.com/56526167/113582204-45f37580-9652-11eb-84ac-dbac5da1900f.png)
 # output
 ![agun2 5 (6)](https://user-images.githubusercontent.com/56526167/113582584-bef2cd00-9652-11eb-8d35-222645918485.png)
+# Pertanyaan dan tugas
+  1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+  2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+  3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+  4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+# Jawab
+   2. Biasanya H1 hanya digunakan satu kali dalam sebuah halaman web, yaitu sebagai judul utama (judul besar), Sedangkan Intro di gunakan untuk memisahkan perintah dalam satu kesatuan
+   3. Karena CSS eksternal digunakan untuk menggabungkan CSS ke website dengan menggabungkan file, dengan cara tersebut, perubahan apapun yang dibuat pada file CSS akan tampil pada website secara keseluruhan
+![g3](https://user-images.githubusercontent.com/56526167/113583496-eac28280-9653-11eb-972a-8ac5f3f9e9ef.png)
+![agun2 5](https://user-images.githubusercontent.com/56526167/113583551-f7df7180-9653-11eb-8eff-36a031a7dd07.png)
+    4. Semuanya akan tampak. Namun Class mampu memanggil sekaligus atau berkali-kali pada satu halaman, sedangkan ID tidak bisa di panggil lebih dari satu.
 
