@@ -15,3 +15,7 @@
 ![jkl](https://user-images.githubusercontent.com/56526167/113579565-b0a2b200-964e-11eb-8a75-3f299941517a.png)
 # output
 ![agun2 5 (3)](https://user-images.githubusercontent.com/56526167/113579784-f8c1d480-964e-11eb-9c07-edb3cdbc5447.png)
+# input
+![agun2 7 (2)](https://user-images.githubusercontent.com/56526167/113580211-93221800-964f-11eb-8975-296bdf9c544e.png)
+# output
+![agun2 5 (4)](https://user-images.githubusercontent.com/56526167/113580432-ec8a4700-964f-11eb-8c66-29241bd75e9f.png)
