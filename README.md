@@ -38,5 +38,4 @@
    3. Karena CSS eksternal digunakan untuk menggabungkan CSS ke website dengan menggabungkan file, dengan cara tersebut, perubahan apapun yang dibuat pada file CSS akan tampil pada website secara keseluruhan
 ![g3](https://user-images.githubusercontent.com/56526167/113583496-eac28280-9653-11eb-972a-8ac5f3f9e9ef.png)
 ![agun2 5](https://user-images.githubusercontent.com/56526167/113583551-f7df7180-9653-11eb-8eff-36a031a7dd07.png)
-      4. Semuanya akan tampak. Namun Class mampu memanggil sekaligus atau berkali-kali pada satu halaman, sedangkan ID tidak bisa di panggil lebih dari satu.
-
+   5. Semuanya akan tampak. Namun Class mampu memanggil sekaligus atau berkali-kali pada satu halaman, sedangkan ID tidak bisa di panggil lebih dari satu
