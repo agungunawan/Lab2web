@@ -27,4 +27,5 @@
 # input
 ![g3](https://user-images.githubusercontent.com/56526167/113582204-45f37580-9652-11eb-84ac-dbac5da1900f.png)
 # output
-![agun2 5](https://user-images.githubusercontent.com/56526167/113582255-56a3eb80-9652-11eb-991a-0540b8fd0f20.png)
+![agun2 5 (6)](https://user-images.githubusercontent.com/56526167/113582584-bef2cd00-9652-11eb-8d35-222645918485.png)
+
